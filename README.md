@@ -48,3 +48,8 @@ On CameraViewControllerSuccess delegate you'll get matched results.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Contact
+#### BUNSAR
+* Homepage: www.bunsar.com
+* e-mail: info@bunsar.com
+* tel: +90 (216) 465-2277
